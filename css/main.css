@@ -1979,7 +1979,7 @@ html.no-csstransitions .home-content__main {
 
   .home-logo img {
     width: 95px;
-    height: 24px;
+    /* height: 24px; */
   }
 
   .home-content h1 {
