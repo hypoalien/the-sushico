@@ -89,7 +89,7 @@
     * ------------------------------------------------------ */
     var ssFinalCountdown = function() {
 
-        var finalDate =  new Date("December 4, 2021 15:37:25").getTime();
+        var finalDate =  new Date("January 24, 2022 11:37:25").getTime();
         //-date: "Jan 24 2022",
 
         $('.home-content__clock').countdown(finalDate)
